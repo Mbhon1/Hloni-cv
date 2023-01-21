@@ -24,17 +24,6 @@ function App() {
           title="Key Summary"
           description="I am a very hard working junior marketing manager who is driven, passionate, and individual with a good work ethic. Driven individual who is open minded and self motivated."
         /> 
-        {/* <WorkExperience 
-          title=""
-          jobTitle1=""
-          company1=""
-          duration1=""
-          description1=""
-          jobTitle2=""
-          company2=""
-          duration2=""
-          description2=""
-        /> */}
         <div className="pad-top">
           <Education 
             title="Education"
@@ -49,11 +38,6 @@ function App() {
         </div>
       </div>
     </div>
-    {/* <Footer 
-        twitter=""
-        instagram=""
-        github=""
-      /> */}
   </main>
   );
 }
